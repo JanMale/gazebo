@@ -5,6 +5,12 @@ Deprecated code produces compile-time warnings. These warning serve as
 notification to users that their code should be upgraded. The next major
 release will remove the deprecated code.
 
+## Gazebo 9.15 to 9.16
+
+### Modifications
+
+Updated the version of TinyOBJLoader from 1.0.0 to 2.0.0rc8.
+
 ## Gazebo 8.4 to 9.x
 
 ### Models with duplicate names will not be inserted
